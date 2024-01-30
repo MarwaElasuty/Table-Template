@@ -1,0 +1,30 @@
+thead{
+    background-color: cornflowerblue;
+    color: white;
+}
+
+table{
+    border-collapse:collapse;
+
+}
+
+td, th{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 110px;
+    padding-right: 110px;
+}
+
+
+img{
+    width: 105px;
+}
+
+td span{
+    color: green;
+    font-style: italic;
+}
+
+.remove-img{
+    width: 20px;
+}
